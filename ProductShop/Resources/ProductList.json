@@ -1,0 +1,162 @@
+[
+{
+  "name" : "Google Chromecast 2 Media Streaming Device",
+  "id" : 1,
+  "imageName" : "1",
+  "description" : "Cast your favorite entertainment straight from your phone to TV",
+  "unitsInStock" :  12,
+  "price" : 46
+},
+{
+  "name" : "Portable Bluetooth Mobile/Tablet Speaker",
+  "id" : 2,
+  "imageName" : "2",
+  "description" : "Party anytime, anywhere by playing the music of your choice on this compact and portablemini bomb speaker.",
+  "unitsInStock" :  23,
+  "price" : 15
+},
+{
+  "name" : "50cm (20 inch) HD Ready LED TV",
+  "id" : 3,
+  "imageName" : "3",
+  "description" : "Standard refresh rate for blur-free picture quality",
+  "unitsInStock" :  34,
+  "price" : 140
+},
+{
+  "name" : "Coding Interview Questions Paperback",
+  "id" : 4,
+  "imageName" : "4",
+  "description" : "A book that presents interview questions in simple and straightforward manner with a clear-cut explanation",
+  "unitsInStock" :  45,
+  "price" : 10
+},
+{
+  "name" : "iOS Programming: The Big Nerd Ranch Guide",
+  "id" : 5,
+  "imageName" : "5",
+  "description" : "The essential concepts, tools, and techniques for developing iOS applications.",
+  "unitsInStock" :  55,
+  "price" : 20
+},
+{
+  "name" : "Printed Men V-neck Multicolor T-Shirt",
+  "id" : 6,
+  "imageName" : "6",
+  "description" : "100% Pure combed 155 - 160 GSM Cotton used. Gives you perfect fit, comfort feel and handsome look.",
+  "unitsInStock" :  56,
+  "price" : 5
+},
+{
+  "name" : "Cenizas Solid Men Waistcoat",
+  "id" : 7,
+  "imageName" : "7",
+  "description" : "four button waistcoat with a Notched Satin collar and a slit on both the sides crafted with a Sharp cut and Modern design,",
+  "unitsInStock" :  66,
+  "price" : 399
+},
+{
+  "name" : "Apple MacBook Air",
+  "id" : 8,
+  "imageName" : "8",
+  "description" : "MQD32HN/A 13.3-inch Laptop 2017 (Core i5/8GB/128GB/MacOS Sierra/Integrated Graphics)",
+  "unitsInStock" :  67,
+  "price" : 1029
+},
+{
+  "name" : "Lenovo Power Bank PB410 5000mAh",
+  "id" : 9,
+  "imageName" : "9",
+  "description" : "capacity of 5000mAh",
+  "unitsInStock" :  77,
+  "price" : 25
+},
+{
+  "name" : "OnePlus 5T",
+  "id" : 10,
+  "imageName" : "10",
+  "description" : "(Midnight Black 6GB RAM + 64GB memory)",
+  "unitsInStock" :  123,
+  "price" : 550
+},
+{
+  "name" : "Beats Studio Wireless Over-Ear Headphone",
+  "id" : 11,
+  "imageName" : "11",
+  "description" : "wide range of headphones from top brands",
+  "unitsInStock" :  32,
+  "price" : 660
+},
+{
+  "name" : "Nikon D3300",
+  "id" : 12,
+  "imageName" : "12",
+  "description" : "24.2MP Digital SLR Camera, Black with AF-P DX NIKKOR 18-55mm f/3.5-5.6G ED VR Lens, Memory Card and Camera Bag",
+  "unitsInStock" :  89,
+  "price" : 450
+},
+{
+  "name" : "Portable Photo Printer",
+  "id" : 13,
+  "imageName" : "13",
+  "description" : "HP Sprocket Z3Z93A",
+  "unitsInStock" :  98,
+  "price" : 299
+},
+{
+  "name" : "Magic Rubik Cube Puzzle Toy",
+  "id" : 14,
+  "imageName" : "14",
+  "description" : "Emob Stickerless 3x3x3 High Speed",
+  "unitsInStock" :  111,
+  "price" : 19
+},
+{
+  "name" : "Teddy Bear Soft Stuffed Plush Toy",
+  "id" : 15,
+  "imageName" : "15",
+  "description" : "Smartoys Big jumbo 5 feet",
+  "unitsInStock" :  90,
+  "price" : 45
+},
+{
+  "name" : "SAF Buddha",
+  "id" : 16,
+  "imageName" : "16",
+  "description" : "Ink Painting  (13 inch x 13 inch)",
+  "unitsInStock" :  91,
+  "price" : 140
+},
+{
+  "name" : "Google Pixel 2 ",
+  "id" : 17,
+  "imageName" : "17",
+  "description" : "Just Black, 64 GB ,  (4 GB RAM)",
+  "unitsInStock" :  3,
+  "price" : 550
+},
+{
+  "name" : "IFB 23 L Convection Microwave Oven",
+  "id" : 18,
+  "imageName" : "18",
+  "description" : "23SC3, Silver",
+  "unitsInStock" :  4,
+  "price" : 200
+},
+{
+  "name" : "Puma Boys & Girls Lace",
+  "id" : 19,
+  "imageName" : "19",
+  "description" : "Running Shoes  (Blue)",
+  "unitsInStock" :  5,
+  "price" : 100
+},
+{
+  "name" : "Yonex MAVIS 350",
+  "id" : 20,
+  "imageName" : "20",
+  "description" : "Green Cap Nylon Shuttle - Multicolor  (Slow, 77, Pack of 6)",
+  "unitsInStock" :  51,
+  "price" : 10
+}
+]
